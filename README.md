@@ -8,3 +8,6 @@
 ![Image text](https://github.com/8520yang/test/blob/master/img-folder/2.png)
 ### 当数组创建好了，但是累加单元为空，还没创建好，走的就是第一个分支
 ![Image text](https://github.com/8520yang/test/blob/master/img-folder/3.png)
+
+### 最后一种情况，数组也创建好了，累加单元也创建好了的情况
+![Image text](https://github.com/8520yang/test/blob/master/img-folder/4.png)
