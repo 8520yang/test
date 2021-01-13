@@ -6,3 +6,5 @@
 ## LongAccumulate()方法内部：
 ### 当还没有开始创建cell，走的第二个分支，初始化并且开始创建cell单元，初始化两个cell单元对象
 ![Image text](https://github.com/8520yang/test/blob/master/img-folder/2.png)
+### 当数组创建好了，但是累加单元为空，还没创建好，走的就是第一个分支
+![Image text](https://github.com/8520yang/test/blob/master/img-folder/3.png)
